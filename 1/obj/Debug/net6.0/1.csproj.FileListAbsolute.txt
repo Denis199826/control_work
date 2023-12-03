@@ -1,0 +1,16 @@
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/1
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/1.deps.json
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/1.dll
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/ref/1.dll
+/Users/denisbykov/Desktop/Контрольная работа/1/bin/Debug/net6.0/1.pdb
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.GlobalUsings.g.cs
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.dll
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/ref/1.dll
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.pdb
+/Users/denisbykov/Desktop/Контрольная работа/1/obj/Debug/net6.0/1.genruntimeconfig.cache
